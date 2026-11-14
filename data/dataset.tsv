@@ -1,0 +1,51 @@
+id	category	english	bangla
+P01	factual	What is the capital of Japan?	জাপানের রাজধানী কী?
+P02	factual	Which planet is known as the Red Planet?	কোন গ্রহকে লাল গ্রহ বলা হয়?
+P03	factual	What is the chemical symbol for gold?	সোনার রাসায়নিক প্রতীক কী?
+P04	factual	How many days are there in a leap year?	অধিবর্ষে কত দিন থাকে?
+P05	factual	Who wrote the play Hamlet?	হ্যামলেট নাটকটি কে লিখেছেন?
+P06	factual	Which ocean is the largest on Earth?	পৃথিবীর সবচেয়ে বড় মহাসাগর কোনটি?
+P07	factual	What gas do plants absorb during photosynthesis?	সালোকসংশ্লেষণের সময় উদ্ভিদ কোন গ্যাস শোষণ করে?
+P08	factual	What is the square root of 81?	৮১-এর বর্গমূল কত?
+P09	factual	What instrument measures air pressure?	বায়ুচাপ মাপার যন্ত্রটির নাম কী?
+P10	factual	How many continents are there on Earth?	পৃথিবীতে কয়টি মহাদেশ রয়েছে?
+P11	instruction	Write three tips for saving electricity at home.	বাড়িতে বিদ্যুৎ সাশ্রয়ের তিনটি পরামর্শ লেখো।
+P12	instruction	List four steps for washing hands properly.	সঠিকভাবে হাত ধোয়ার চারটি ধাপ তালিকাভুক্ত করো।
+P13	instruction	Give two examples of renewable energy sources.	নবায়নযোগ্য শক্তির উৎসের দুটি উদাহরণ দাও।
+P14	instruction	Write a polite one-sentence email asking for a meeting.	একটি সভার অনুরোধ জানিয়ে এক বাক্যের ভদ্র ইমেইল লেখো।
+P15	instruction	Suggest three ways to reduce plastic waste.	প্লাস্টিক বর্জ্য কমানোর তিনটি উপায় প্রস্তাব করো।
+P16	instruction	Create a short checklist for preparing for an exam.	পরীক্ষার প্রস্তুতির জন্য একটি সংক্ষিপ্ত চেকলিস্ট তৈরি করো।
+P17	instruction	Describe two precautions for crossing a busy road.	ব্যস্ত রাস্তা পার হওয়ার দুটি সতর্কতা বর্ণনা করো।
+P18	instruction	Give three suggestions for keeping a laptop secure.	ল্যাপটপ নিরাপদ রাখার তিনটি পরামর্শ দাও।
+P19	instruction	Write a two-sentence thank-you message to a teacher.	একজন শিক্ষককে ধন্যবাদ জানিয়ে দুই বাক্যের বার্তা লেখো।
+P20	instruction	List three ways to improve concentration while studying.	পড়াশোনার সময় মনোযোগ বাড়ানোর তিনটি উপায় লেখো।
+P21	explanation	Explain what a database is in two simple sentences.	ডেটাবেস কী, তা দুটি সহজ বাক্যে ব্যাখ্যা করো।
+P22	explanation	Explain why drinking clean water is important.	বিশুদ্ধ পানি পান করা কেন গুরুত্বপূর্ণ, তা ব্যাখ্যা করো।
+P23	explanation	Explain the difference between weather and climate.	আবহাওয়া ও জলবায়ুর পার্থক্য ব্যাখ্যা করো।
+P24	explanation	Explain how a solar panel produces electricity.	সৌর প্যানেল কীভাবে বিদ্যুৎ উৎপন্ন করে, তা ব্যাখ্যা করো।
+P25	explanation	Explain what an algorithm is with a simple example.	অ্যালগরিদম কী, একটি সহজ উদাহরণসহ ব্যাখ্যা করো।
+P26	explanation	Explain why sleep is important for learning.	শেখার জন্য ঘুম কেন গুরুত্বপূর্ণ, তা ব্যাখ্যা করো।
+P27	explanation	Explain the purpose of a computer operating system.	কম্পিউটারের অপারেটিং সিস্টেমের উদ্দেশ্য ব্যাখ্যা করো।
+P28	explanation	Explain what causes day and night on Earth.	পৃথিবীতে দিন ও রাত কেন হয়, তা ব্যাখ্যা করো।
+P29	explanation	Explain the meaning of recycling in simple terms.	পুনর্ব্যবহার বলতে কী বোঝায়, সহজ ভাষায় ব্যাখ্যা করো।
+P30	explanation	Explain why regular exercise benefits the body.	নিয়মিত ব্যায়াম শরীরের জন্য কেন উপকারী, তা ব্যাখ্যা করো।
+P31	arithmetic	Calculate 125 + 378.	১২৫ + ৩৭৮ হিসাব করো।
+P32	arithmetic	Calculate 960 divided by 12.	৯৬০-কে ১২ দিয়ে ভাগ করো।
+P33	arithmetic	What is 15% of 240?	২৪০-এর ১৫% কত?
+P34	arithmetic	A book costs 180 taka. What is the cost of 4 books?	একটি বইয়ের দাম ১৮০ টাকা। ৪টি বইয়ের দাম কত?
+P35	arithmetic	Find the average of 12, 18, 24, and 30.	১২, ১৮, ২৪ ও ৩০-এর গড় নির্ণয় করো।
+P36	arithmetic	A train travels 120 km in 2 hours. What is its average speed?	একটি ট্রেন ২ ঘণ্টায় ১২০ কিলোমিটার যায়। এর গড় গতি কত?
+P37	arithmetic	A price increases from 200 to 250 taka. What is the percentage increase?	একটি জিনিসের দাম ২০০ টাকা থেকে ২৫০ টাকা হয়েছে। শতকরা বৃদ্ধি কত?
+P38	arithmetic	There are 45 students and 20 are girls. How many are boys?	একটি শ্রেণিতে ৪৫ জন শিক্ষার্থী, যার মধ্যে ২০ জন মেয়ে। ছেলে কয়জন?
+P39	summarization	Summarize in one sentence: Trees absorb carbon dioxide and release oxygen. They also provide shade and habitats for animals.	এক বাক্যে সারসংক্ষেপ করো: গাছ কার্বন ডাই-অক্সাইড শোষণ করে ও অক্সিজেন ছাড়ে। এগুলো ছায়া দেয় এবং প্রাণীদের আবাসস্থল তৈরি করে।
+P40	summarization	Summarize in one sentence: A library lends books to readers. It also provides quiet places for study.	এক বাক্যে সারসংক্ষেপ করো: একটি গ্রন্থাগার পাঠকদের বই ধার দেয়। এটি পড়াশোনার জন্য শান্ত জায়গাও দেয়।
+P41	summarization	Summarize in one sentence: Rainwater fills rivers and lakes. Farmers use this water to grow crops.	এক বাক্যে সারসংক্ষেপ করো: বৃষ্টির পানি নদী ও হ্রদ পূর্ণ করে। কৃষকেরা এই পানি দিয়ে ফসল ফলান।
+P42	summarization	Summarize in one sentence: Walking is a simple exercise. It can improve fitness and mood.	এক বাক্যে সারসংক্ষেপ করো: হাঁটা একটি সহজ ব্যায়াম। এটি শারীরিক সক্ষমতা ও মন ভালো রাখতে সাহায্য করে।
+P43	summarization	Summarize in one sentence: Online classes allow students to learn from home. A stable internet connection is often necessary.	এক বাক্যে সারসংক্ষেপ করো: অনলাইন ক্লাসে শিক্ষার্থীরা বাড়ি থেকে পড়তে পারে। এর জন্য প্রায়ই স্থিতিশীল ইন্টারনেট সংযোগ দরকার হয়।
+P44	summarization	Summarize in one sentence: Bees collect nectar from flowers. They also help pollinate many plants.	এক বাক্যে সারসংক্ষেপ করো: মৌমাছি ফুল থেকে মধুরস সংগ্রহ করে। তারা অনেক উদ্ভিদের পরাগায়নেও সাহায্য করে।
+P45	summarization	Summarize in one sentence: Public transport carries many passengers at once. It can reduce traffic congestion and pollution.	এক বাক্যে সারসংক্ষেপ করো: গণপরিবহন একসঙ্গে অনেক যাত্রী বহন করে। এটি যানজট ও দূষণ কমাতে পারে।
+P46	long	A student has one week before an exam. She needs to review mathematics, science, and English. She can study for two hours each day. Suggest a simple seven-day study plan.	একজন শিক্ষার্থীর পরীক্ষার আগে এক সপ্তাহ সময় আছে। তাকে গণিত, বিজ্ঞান ও ইংরেজি পুনরায় পড়তে হবে। সে প্রতিদিন দুই ঘণ্টা পড়তে পারবে। সাত দিনের একটি সহজ পড়ার পরিকল্পনা দাও।
+P47	long	A small shop wants to reduce electricity use. It has lights, fans, and a refrigerator. The owner cannot buy expensive new equipment. Suggest three practical low-cost actions.	একটি ছোট দোকান বিদ্যুতের ব্যবহার কমাতে চায়। দোকানে বাতি, পাখা ও ফ্রিজ আছে। মালিক দামি নতুন যন্ত্র কিনতে পারবেন না। কম খরচে বাস্তবায়নযোগ্য তিনটি পদক্ষেপ প্রস্তাব করো।
+P48	long	A village school wants to start a reading club. The school has few books and no extra budget. Students can meet once a week. Suggest a plan to begin the club.	একটি গ্রামের স্কুল পাঠচক্র শুরু করতে চায়। স্কুলে বই কম এবং অতিরিক্ত বাজেট নেই। শিক্ষার্থীরা সপ্তাহে এক দিন মিলিত হতে পারবে। পাঠচক্র শুরু করার একটি পরিকল্পনা দাও।
+P49	long	A family plans a picnic in a local park. The forecast says there may be light rain. They want to avoid disposable plastic. Suggest a packing list and one backup plan.	একটি পরিবার স্থানীয় পার্কে বনভোজনের পরিকল্পনা করেছে। আবহাওয়ার পূর্বাভাসে হালকা বৃষ্টির সম্ভাবনা আছে। তারা একবার ব্যবহারযোগ্য প্লাস্টিক এড়াতে চায়। সঙ্গে নেওয়ার জিনিসের তালিকা এবং একটি বিকল্প পরিকল্পনা দাও।
+P50	long	A community group is organizing a neighborhood cleanup. Twenty volunteers can join for two hours. Gloves and trash bags are available. Explain how the group should divide the work safely.	একটি সামাজিক দল এলাকায় পরিচ্ছন্নতা অভিযান আয়োজন করছে। বিশজন স্বেচ্ছাসেবক দুই ঘণ্টা অংশ নিতে পারবে। গ্লাভস ও ময়লার ব্যাগ আছে। নিরাপদে কাজ ভাগ করার পদ্ধতি ব্যাখ্যা করো।
